@@ -1,0 +1,623 @@
+{
+	"phase": "offense",
+	"plays": [
+		"15 Dart",
+		"25 Redskin",
+		"14 Wham",
+		"Zone R",
+		"50 Stop",
+		"50 Takeoff",
+		"50 Out",
+		"50 Post",
+		"X Middle Screen"
+	],
+	"positions": [
+		"QB",
+		"H",
+		"X",
+		"F",
+		"Y",
+		"Z",
+		"LT",
+		"LG",
+		"C",
+		"RG",
+		"RT"
+	],
+	"assignments": [
+		{
+			"id": 1,
+			"play": "15 Dart",
+			"position": "QB",
+			"assignment": "fake R, hit attack"
+		},
+		{
+			"id": 2,
+			"play": "25 Redskin",
+			"position": "QB",
+			"assignment": "read 4 hole, give/read"
+		},
+		{
+			"id": 3,
+			"play": "14 Wham",
+			"position": "QB",
+			"assignment": "freeze 2, hit attack"
+		},
+		{
+			"id": 4,
+			"play": "Zone R",
+			"position": "QB",
+			"assignment": "read 5 hole, give/read"
+		},
+		{
+			"id": 5,
+			"play": "50 Stop",
+			"position": "QB",
+			"assignment": "MOFO:seam,MOFC:stop"
+		},
+		{
+			"id": 6,
+			"play": "50 Takeoff",
+			"position": "QB",
+			"assignment": "HC:takeoff,SC:stop"
+		},
+		{
+			"id": 7,
+			"play": "50 Out",
+			"position": "QB",
+			"assignment": "do qb stuff"
+		},
+		{
+			"id": 8,
+			"play": "50 Post",
+			"position": "QB",
+			"assignment": "do qb stuff"
+		},
+		{
+			"id": 9,
+			"play": "X Middle Screen",
+			"position": "QB",
+			"assignment": "5 step, pump, 3 stop, dump to X"
+		},
+		{
+			"id": 10,
+			"play": "15 Dart",
+			"position": "H",
+			"assignment": "fake zone R"
+		},
+		{
+			"id": 11,
+			"play": "25 Redskin",
+			"position": "H",
+			"assignment": "jab R, take/read"
+		},
+		{
+			"id": 12,
+			"play": "14 Wham",
+			"position": "H",
+			"assignment": "lead attack"
+		},
+		{
+			"id": 13,
+			"play": "Zone R",
+			"position": "H",
+			"assignment": "freeze, press 5, take/read"
+		},
+		{
+			"id": 14,
+			"play": "50 Stop",
+			"position": "H",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 15,
+			"play": "50 Takeoff",
+			"position": "H",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 16,
+			"play": "50 Out",
+			"position": "H",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 17,
+			"play": "50 Post",
+			"position": "H",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 18,
+			"play": "X Middle Screen",
+			"position": "H",
+			"assignment": "bubble L"
+		},
+		{
+			"id": 19,
+			"play": "15 Dart",
+			"position": "X",
+			"assignment": "stalk"
+		},
+		{
+			"id": 20,
+			"play": "25 Redskin",
+			"position": "X",
+			"assignment": "stalk"
+		},
+		{
+			"id": 21,
+			"play": "14 Wham",
+			"position": "X",
+			"assignment": "stalk"
+		},
+		{
+			"id": 22,
+			"play": "Zone R",
+			"position": "X",
+			"assignment": "stalk"
+		},
+		{
+			"id": 23,
+			"play": "50 Stop",
+			"position": "X",
+			"assignment": "5 yd stop"
+		},
+		{
+			"id": 24,
+			"play": "50 Takeoff",
+			"position": "X",
+			"assignment": "5 yd takeoff"
+		},
+		{
+			"id": 25,
+			"play": "50 Out",
+			"position": "X",
+			"assignment": "5 yd out"
+		},
+		{
+			"id": 26,
+			"play": "50 Post",
+			"position": "X",
+			"assignment": "5 yd post"
+		},
+		{
+			"id": 27,
+			"play": "X Middle Screen",
+			"position": "X",
+			"assignment": "2 yd bubble, near hash for screen"
+		},
+		{
+			"id": 28,
+			"play": "15 Dart",
+			"position": "F",
+			"assignment": "stalk"
+		},
+		{
+			"id": 29,
+			"play": "25 Redskin",
+			"position": "F",
+			"assignment": "stalk"
+		},
+		{
+			"id": 30,
+			"play": "14 Wham",
+			"position": "F",
+			"assignment": "stalk"
+		},
+		{
+			"id": 31,
+			"play": "Zone R",
+			"position": "F",
+			"assignment": "stalk"
+		},
+		{
+			"id": 32,
+			"play": "50 Stop",
+			"position": "F",
+			"assignment": "5 yd read NS"
+		},
+		{
+			"id": 33,
+			"play": "50 Takeoff",
+			"position": "F",
+			"assignment": "5 yd stop"
+		},
+		{
+			"id": 34,
+			"play": "50 Out",
+			"position": "F",
+			"assignment": "5 yd post, read NS"
+		},
+		{
+			"id": 35,
+			"play": "50 Post",
+			"position": "F",
+			"assignment": "5 yd out"
+		},
+		{
+			"id": 36,
+			"play": "X Middle Screen",
+			"position": "F",
+			"assignment": "takeoff"
+		},
+		{
+			"id": 37,
+			"play": "15 Dart",
+			"position": "Y",
+			"assignment": "stalk"
+		},
+		{
+			"id": 38,
+			"play": "25 Redskin",
+			"position": "Y",
+			"assignment": "stalk"
+		},
+		{
+			"id": 39,
+			"play": "14 Wham",
+			"position": "Y",
+			"assignment": "stalk"
+		},
+		{
+			"id": 40,
+			"play": "Zone R",
+			"position": "Y",
+			"assignment": "stalk"
+		},
+		{
+			"id": 41,
+			"play": "50 Stop",
+			"position": "Y",
+			"assignment": "5 yd stop"
+		},
+		{
+			"id": 42,
+			"play": "50 Takeoff",
+			"position": "Y",
+			"assignment": "5 yd takeoff"
+		},
+		{
+			"id": 43,
+			"play": "50 Out",
+			"position": "Y",
+			"assignment": "5 yd out"
+		},
+		{
+			"id": 44,
+			"play": "50 Post",
+			"position": "Y",
+			"assignment": "5 yd post"
+		},
+		{
+			"id": 45,
+			"play": "X Middle Screen",
+			"position": "Y",
+			"assignment": "takeoff"
+		},
+		{
+			"id": 46,
+			"play": "15 Dart",
+			"position": "Z",
+			"assignment": "stalk"
+		},
+		{
+			"id": 47,
+			"play": "25 Redskin",
+			"position": "Z",
+			"assignment": "stalk"
+		},
+		{
+			"id": 48,
+			"play": "14 Wham",
+			"position": "Z",
+			"assignment": "stalk"
+		},
+		{
+			"id": 49,
+			"play": "Zone R",
+			"position": "Z",
+			"assignment": "stalk"
+		},
+		{
+			"id": 50,
+			"play": "50 Stop",
+			"position": "Z",
+			"assignment": "5 yd read NS"
+		},
+		{
+			"id": 51,
+			"play": "50 Takeoff",
+			"position": "Z",
+			"assignment": "5 yd stop"
+		},
+		{
+			"id": 52,
+			"play": "50 Out",
+			"position": "Z",
+			"assignment": "5 yd post, read NS"
+		},
+		{
+			"id": 53,
+			"play": "50 Post",
+			"position": "Z",
+			"assignment": "5 yd out"
+		},
+		{
+			"id": 54,
+			"play": "X Middle Screen",
+			"position": "Z",
+			"assignment": "bubble R"
+		},
+		{
+			"id": 55,
+			"play": "15 Dart",
+			"position": "LT",
+			"assignment": "cougar LG"
+		},
+		{
+			"id": 56,
+			"play": "25 Redskin",
+			"position": "LT",
+			"assignment": "cougar LG"
+		},
+		{
+			"id": 57,
+			"play": "14 Wham",
+			"position": "LT",
+			"assignment": "backside cutoff"
+		},
+		{
+			"id": 58,
+			"play": "Zone R",
+			"position": "LT",
+			"assignment": "Reach R/cougar"
+		},
+		{
+			"id": 59,
+			"play": "50 Stop",
+			"position": "LT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 60,
+			"play": "50 Takeoff",
+			"position": "LT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 61,
+			"play": "50 Out",
+			"position": "LT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 62,
+			"play": "50 Post",
+			"position": "LT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 63,
+			"play": "X Middle Screen",
+			"position": "LT",
+			"assignment": "block #1"
+		},
+		{
+			"id": 64,
+			"play": "15 Dart",
+			"position": "LG",
+			"assignment": "cougar LG"
+		},
+		{
+			"id": 65,
+			"play": "25 Redskin",
+			"position": "LG",
+			"assignment": "cougar LG"
+		},
+		{
+			"id": 66,
+			"play": "14 Wham",
+			"position": "LG",
+			"assignment": "backside cutoff"
+		},
+		{
+			"id": 67,
+			"play": "Zone R",
+			"position": "LG",
+			"assignment": "reach R/cougar"
+		},
+		{
+			"id": 68,
+			"play": "50 Stop",
+			"position": "LG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 69,
+			"play": "50 Takeoff",
+			"position": "LG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 70,
+			"play": "50 Out",
+			"position": "LG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 71,
+			"play": "50 Post",
+			"position": "LG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 72,
+			"play": "X Middle Screen",
+			"position": "LG",
+			"assignment": "L numbers"
+		},
+		{
+			"id": 73,
+			"play": "15 Dart",
+			"position": "C",
+			"assignment": "back"
+		},
+		{
+			"id": 74,
+			"play": "25 Redskin",
+			"position": "C",
+			"assignment": "back"
+		},
+		{
+			"id": 75,
+			"play": "14 Wham",
+			"position": "C",
+			"assignment": "cougar RG"
+		},
+		{
+			"id": 76,
+			"play": "Zone R",
+			"position": "C",
+			"assignment": "reach R/cougar"
+		},
+		{
+			"id": 77,
+			"play": "50 Stop",
+			"position": "C",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 78,
+			"play": "50 Takeoff",
+			"position": "C",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 79,
+			"play": "50 Out",
+			"position": "C",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 80,
+			"play": "50 Post",
+			"position": "C",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 81,
+			"play": "X Middle Screen",
+			"position": "C",
+			"assignment": "L hash"
+		},
+		{
+			"id": 82,
+			"play": "15 Dart",
+			"position": "RG",
+			"assignment": "pull, kick attack"
+		},
+		{
+			"id": 83,
+			"play": "25 Redskin",
+			"position": "RG",
+			"assignment": "pull, kick attack"
+		},
+		{
+			"id": 84,
+			"play": "14 Wham",
+			"position": "RG",
+			"assignment": "cougar C"
+		},
+		{
+			"id": 85,
+			"play": "Zone R",
+			"position": "RG",
+			"assignment": "reach R/cougar"
+		},
+		{
+			"id": 86,
+			"play": "50 Stop",
+			"position": "RG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 87,
+			"play": "50 Takeoff",
+			"position": "RG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 88,
+			"play": "50 Out",
+			"position": "RG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 89,
+			"play": "50 Post",
+			"position": "RG",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 90,
+			"play": "X Middle Screen",
+			"position": "RG",
+			"assignment": "R hash"
+		},
+		{
+			"id": 91,
+			"play": "15 Dart",
+			"position": "RT",
+			"assignment": "pull, lead attack"
+		},
+		{
+			"id": 92,
+			"play": "25 Redskin",
+			"position": "RT",
+			"assignment": "pull, lead attack"
+		},
+		{
+			"id": 93,
+			"play": "14 Wham",
+			"position": "RT",
+			"assignment": "block out"
+		},
+		{
+			"id": 94,
+			"play": "Zone R",
+			"position": "RT",
+			"assignment": "reach R/cougar"
+		},
+		{
+			"id": 95,
+			"play": "50 Stop",
+			"position": "RT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 96,
+			"play": "50 Takeoff",
+			"position": "RT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 97,
+			"play": "50 Out",
+			"position": "RT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 98,
+			"play": "50 Post",
+			"position": "RT",
+			"assignment": "pass pro"
+		},
+		{
+			"id": 99,
+			"play": "X Middle Screen",
+			"position": "RT",
+			"assignment": "R numbers"
+		}
+	]
+}

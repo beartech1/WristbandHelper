@@ -1,0 +1,149 @@
+{
+	"phase": "offense",
+	"plays": [
+		{
+			"name": "15 Dart",
+			"assignments": {
+				"qb": "fake R, hit attack",
+				"h": "fake zone R",
+				"x": "stalk",
+				"f": "stalk",
+				"y": "stalk",
+				"z": "stalk",
+				"lt": "cougar lg",
+				"lg": "cougar lt",
+				"c": "back",
+				"rg": "pull, kick attack",
+				"rt": "pull, lead attack"
+			}
+		},
+		{
+			"name": "25 Redskin",
+			"assignments": {
+				"qb": "read 4 hole, give/read",
+				"h": "jab R, take/read",
+				"x": "stalk",
+				"f": "stalk",
+				"y": "stalk",
+				"z": "stalk",
+				"lt": "cougar lg",
+				"lg": "cougar lt",
+				"c": "back",
+				"rg": "pull, kick attack",
+				"rt": "pull, lead attack"
+			}
+		},
+		{
+			"name": "14 Wham",
+			"assignments": {
+				"qb": "freeze 2, hit attack",
+				"h": "lead attack",
+				"x": "stalk",
+				"f": "stalk",
+				"y": "stalk",
+				"z": "stalk",
+				"lt": "backside cutoff",
+				"lg": "backside cutoff",
+				"c": "cougar rg",
+				"rg": "cougar c",
+				"rt": "block out"
+			}
+		},
+		{
+			"name": "Zone R",
+			"assignments": {
+				"qb": "read 5 hole, give/read",
+				"h": "freeze, press 5, take/read",
+				"x": "stalk",
+				"f": "stalk",
+				"y": "stalk",
+				"z": "stalk",
+				"lt": "reach R/cougar",
+				"lg": "reach R/cougar",
+				"c": "reach R/cougar",
+				"rg": "reach R/cougar",
+				"rt": "reach R/cougar"
+			}
+		},
+		{
+			"name": "50 Stop",
+			"assignments": {
+				"qb": "MOFO:seam,MOFC:stop",
+				"h": "pass pro",
+				"x": "5 yd stop",
+				"f": "5 yd read NS",
+				"y": "5 yd stop",
+				"z": "5 yd read NS",
+				"lt": "pass pro",
+				"lg": "pass pro",
+				"c": "pass pro",
+				"rg": "pass pro",
+				"rt": "pass pro"
+			}
+		},
+		{
+			"name": "50 Takeoff",
+			"assignments": {
+				"qb": "HC:takeoff,SC:stop",
+				"h": "pass pro",
+				"x": "5 yd takeoff",
+				"f": "5 yd stop",
+				"y": "5 yd takeoff",
+				"z": "5 yd stop",
+				"lt": "pass pro",
+				"lg": "pass pro",
+				"c": "pass pro",
+				"rg": "pass pro",
+				"rt": "pass pro"
+			}
+		},
+		{
+			"name": "50 Out",
+			"assignments": {
+				"qb": "do qb stuff",
+				"h": "pass pro",
+				"x": "5 yd out",
+				"f": "5 yd post, read NS",
+				"y": "5 yd out",
+				"z": "5 yd post, read NS",
+				"lt": "pass pro",
+				"lg": "pass pro",
+				"c": "pass pro",
+				"rg": "pass pro",
+				"rt": "pass pro"
+			}
+		},
+		{
+			"name": "50 Post",
+			"assignments": {
+				"qb": "do qb stuff",
+				"h": "pass pro",
+				"x": "5 yd post",
+				"f": "5 yd out",
+				"y": "5 yd post",
+				"z": "5 yd out",
+				"lt": "pass pro",
+				"lg": "pass pro",
+				"c": "pass pro",
+				"rg": "pass pro",
+				"rt": "pass pro"
+			}
+		},
+		{
+			"name": "X Middle Screen",
+			"assignments": {
+				"qb": "5 step, pump, 3 stop, dump to X",
+				"h": "bubble L",
+				"x": "2 yd bubble, near hash for screen",
+				"f": "takeoff",
+				"y": "takeoff",
+				"z": "bubble R",
+				"lt": "block #1",
+				"lg": "L numbers",
+				"c": "L hash",
+				"rg": "R hash",
+				"rt": "R numbers"
+			}
+		}
+	]
+}
