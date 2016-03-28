@@ -11,7 +11,6 @@ import java.io.FileOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-//TODO: check this into github
 public class Main {
 
 	private static final ObjectMapper objectMapper = new ObjectMapper();
@@ -19,9 +18,10 @@ public class Main {
     public static void main(String[] args) throws Exception {
         XSSFWorkbook workbook = new XSSFWorkbook();
 		WristbandMapping wristband = loadWristbandMapping();
-		//TODO: see what the json object looks like after refactor
 		List<String> positions = wristband.getPositions();
 		positions.stream().forEachOrdered(workbook::createSheet);
+		//TODO: shuffle up the plays in a random order
+		//TODO: use the shuffled order to map assignments to positions on each sheet
 		for (int i = 0; i < workbook.getNumberOfSheets(); ++i) {
 			writeDataForSheet(workbook.getSheetAt(i));
 		}
@@ -40,7 +40,7 @@ public class Main {
 	}
 
 	private static WristbandMapping loadWristbandMapping() throws Exception {
-		File wristbandFile = new File("C:\\dev\\WristbandHelper\\wristbandConfigs\\proto1.json");
+		File wristbandFile = new File("C:\\dev\\WristbandHelper\\WristbandHelper\\wristbandConfigs\\proto2.json");
 		return objectMapper.readValue(wristbandFile, WristbandMapping.class);
 	}
 }
