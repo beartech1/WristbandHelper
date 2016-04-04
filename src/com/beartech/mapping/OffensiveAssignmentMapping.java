@@ -1,9 +1,6 @@
 package com.beartech.mapping;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
-import com.google.common.collect.ImmutableList;
-
-import java.util.List;
 
 @JsonAutoDetect
 public class OffensiveAssignmentMapping implements AssignmentMapping {
