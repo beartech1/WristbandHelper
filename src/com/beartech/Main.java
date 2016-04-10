@@ -40,7 +40,7 @@ public class Main {
 	}
 
 	private static WristbandMapping loadWristbandMapping() throws Exception {
-		File wristbandFile = new File("C:\\dev\\WristbandHelper\\WristbandHelper\\wristbandConfigs\\proto2.json");
+		File wristbandFile = new File("C:\\dev\\WristbandHelper\\wristbandConfigs\\proto2.json");
 		return objectMapper.readValue(wristbandFile, WristbandMapping.class);
 	}
 }
