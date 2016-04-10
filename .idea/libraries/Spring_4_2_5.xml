@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Spring 4.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jars/spring-framework-4.2.5.RELEASE/libs/spring-core-4.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/spring-framework-4.2.5.RELEASE/libs/spring-beans-4.2.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
